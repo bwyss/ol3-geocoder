@@ -1,0 +1,11 @@
+{
+  "name": "ol3-geocoder",
+  "version": "1.7.0",
+  "description": "ol3-geocoder",
+  "main": [
+    "ol3-geocoder.js",
+    "ol3-geocoder.css"
+  ],
+  "ignore": [
+  ]	
+}
