@@ -1,0 +1,9 @@
+{
+  "name": "ol3-geocoder",
+  "version": "1.7.0",
+  "description": "ol3-geocoder",
+  "main": [
+    "./build/ol3-geocoder.js",
+    "./build/ol3-geocoder.css"
+  ]
+}
