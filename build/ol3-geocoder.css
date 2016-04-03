@@ -1,6 +1,6 @@
 .ol-geocoder {
     position: absolute;
-    top: calc(.5em + 65px);
+    top: calc(.5em + 55px);
     left: .5em;
     box-sizing: border-box;
 }
