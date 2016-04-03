@@ -10,8 +10,8 @@
     box-sizing: inherit;
 }
 .ol-geocoder-search {
-    width: 31px;
-    height: 31px;
+    width: 28px;
+    height: 28px;
     overflow: hidden;
     -webkit-transition: width .2s, height .2s;
     transition: width .2s, height .2s;
@@ -63,7 +63,7 @@ ul.ol-geocoder-result li {
     padding: 0;
 }
 ul.ol-geocoder-result li:nth-child(odd) {
-    background-color: rgb(224, 255, 224);
+    background-color: rgb(245, 245, 245);
 }
 ul.ol-geocoder-result li a {
     display: block;
