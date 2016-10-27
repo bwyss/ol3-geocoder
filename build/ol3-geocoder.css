@@ -71,7 +71,7 @@ ul.ol3-geocoder-result {
       ul.ol3-geocoder-result > li > a:hover {
         background-color: #d4d4d4; }
   ul.ol3-geocoder-result > li:nth-child(odd) {
-    background-color: #e6e6e6; }
+    background-color: #F2F2F2; }
 
 .ol3-geocoder-road {
   font-size: 0.875rem;
